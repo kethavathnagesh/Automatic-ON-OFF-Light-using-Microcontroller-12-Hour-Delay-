@@ -1,0 +1,2 @@
+# Automatic-ON-OFF-Light-using-Microcontroller-12-Hour-Delay-
+The Automatic ON-OFF Light system uses a microcontroller to control the switching of a light source with a 12-hour delay. The microcontroller is programmed to activate a relay, powering on the light, and after a 12-hour delay, deactivate the relay, turning off the light. This eliminates the need for manual interference in daily light management.
